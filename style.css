@@ -29,7 +29,7 @@ body{
 
 .top-container{
     background-size: 100%;
-    background-image: url(/images/bg-header-mobile.png);
+    background-image: url(./images/bg-header-mobile.png);
     background-repeat: no-repeat;
     padding: 4em;
 }
